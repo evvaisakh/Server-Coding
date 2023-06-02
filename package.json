@@ -1,0 +1,16 @@
+{
+  "name": "hospital-app-coding",
+  "version": "1.0.0",
+  "description": "Hospital app Server Coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaisakh Vijayan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.3",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
